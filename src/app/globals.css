@@ -4,6 +4,7 @@
 
   --colorDark: #1a212f;
   --colorLight: #fffefd;
+  --bgColor: rgb(255, 254, 253);
 }
 
 * {
@@ -18,6 +19,7 @@ body {
   overflow-x: hidden;
   scroll-behavior: smooth;
   color: var(--colorDark);
+  background-color: var(--bgColor);
 }
 
 a {

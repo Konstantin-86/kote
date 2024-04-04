@@ -1,7 +1,0 @@
-.main {
-  height: calc(100dvh - 60px);
-  background-image: url(../images/mainBg.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-}
